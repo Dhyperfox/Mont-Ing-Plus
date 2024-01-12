@@ -1,0 +1,122 @@
+{
+    "translation": {
+      "menu":
+      {
+        "home": "Naslovna",
+        "about": "O nama",
+        "machines": "Mašine",
+        "services": "Usluge",
+        "contact": "Kontakti",
+        "gallery": "Galerija"
+
+      },
+      "about":
+      {
+        "about-us": "O nama",
+        "about-text": "MONT ING PLUS D.O.O je osnovan 3. septembra 2010. u Senti. Sedište firme je u ulici Braće Levi 14. Prodavnica i mašinski park se nalaze na Tornjoškom putu, pod brojem 78. Trenutno u ponudi imamo 4-točni volan JCB 4CX model, koji je najtraženiji rovokopač-utovarivač na svetu. Omogućava poslove u toku kopanja, utovarivanja i oko građevinskih poslova. U okviru ovih aktivnosti kombinirka pruža i dodatne usluge: nabijanje kolaca ili šipova sa hidrauličnim nabijačem, rušenje starih kuća, razbijanje betonskih staza, sadnja drveća sa mašinskim bušenjem i mašinsko kopanje. Iskopanu zemlju, otpad i potrebni građevinski materijal prevozimo sa MERCEDES ATEGO kiper kamionom. Dostupna je i autodizalica do 30t, koju izdajemo uz uslugu profesionalnog vozača sa višegodišnjim iskustvom. Pošto preduzeće Mont Ing plus D.O.O postoji više od 10 godina, njegove usluge su veoma tražene na tržištu. Naši zaposleni imaju odlične kvalifikacije. Svi poslovi se odrađuju na vreme, u ugovorenom roku."
+      },
+      "machines":
+      {
+        "title": "Naše mašine",
+        "about1": "Popularan i svestran bager-utovarivač.",
+        "about2": "Idealan za pomeranje teških tereta.",
+        "about3": "3.5t kiper kamion.",
+        "machine1":
+        {
+          "about": "JCB 4CX ECO je popularna građevinska mašina koju proizvodi kompanija JCB,britanska kompanija, specijalizovana za radove na građevinskim i industrijskim lokacijama. Ova mašina je kombinacija bagera, utovarivača i viljuškara, što je čini veoma svestranom i pogodnom za različite zadatke. Evo nekih ključnih karakteristika JCB 4CX ECO: ima pristojan dizel motor koji obično proizvodi snagu između 81-109 KS. Motor je efikasan i pouzdan,što omogućava mašini da radi duže.Utorivač ima više dodataka.",
+          "kanal": "Prednja kašika",
+          "kapacitet": "4.378 kg maksimalni kapacitet utovara",
+          "kapacitet2": "1,3 m3 kapacitet kašike",
+          "hatso-kanal": "Zadnja kašika",
+          "melyseg": "5.53 dubina kopanja",
+          "furo": "Bušilica za tlo za tačno i precizno bušenje",
+          "furo-text": "JCB 4CX ECO bušilica za tlo je alat koji se koristi za bušenje rupa u zemlji. Ova vrsta opreme omogućava brzo i efikasno izvođenje radova na postavljanju stubova, ograde, temelja ili drugih struktura koje zahtevaju bušenje rupa. Evo nekih ključnih informacija o bušilici za tlo za JCB 4CX ECO: Bušilica za tlo se obično montira na zadnji bager JCB 4CX ECO . Imamo 4 vrste na raspolaganju (600mm 450mm 300mm 200mm).",
+          "hidraulik": "Hidraulični čekić tihi model (posebna tehnologija smanjenja buke)",
+          "hidraulik-text": "JCB 4CX ECO može biti opremljen hidrauličnim čekićem kao dodatnom opremom. Hidraulični čekić je alat koji se koristi za razbijanje tvrdih materijala kao što su beton, stena ili asfalt. On se priključuje na hidraulični sistem mašine i koristi hidraulički pritisak da generiše udarce koji razbijaju materijal.",
+          "fog": "Zub za razbijanje",
+          "fog-text": "Ovaj dodatak omogućava rukovodiocu da razbije prethodno polomljeni materijal(beton,katranizani makadam,smrznute ili druge zemljane površine).",
+          "dongolo": "Hidraulični nabijač",
+          "dongolo-text": "JCB 4CX ECO opremljen hidrauličnim nabijačem, koji je dodatak koji se može koristiti na građevinskim mašinama za pobojšanje efikasnostisti sabijanja tla.Obično se sastoji od vibracione glave koja se može pričvrstiti na zadnji deo mašine JCB 4CX ECO.Kada je vibrator uključen ,vibrirajuća glava generiše vibracije koje se prenose na tlo, omogućavajući bolje sabijanje tla.",
+          "csatlakozo": "Brza spoljka",
+          "csatlakozo-text": "JCB 4CX ECO može biti opremljen brzom spojkom kao dodatnom opremom. Brza spojka je mehanizam koji omogućava brzo i sigurno pričvršćivanje i odvajanje alata ili priključaka na JCB 4CX ECO mašini."        
+        },
+        "machine2":
+        {
+          "about":"Mont Ing Plus D.o.o  nudi i iznajmljivanje autodizalica. Pružamo najbolja rešenja za postupanje i manipulaciju tereta sa industrijskom opremom za podizanje, istovar, utovar, pomeranje, montažu i demontažu tereta. Opremljeni smo autodizalicom od 30t. U mogućnosti smo da podižemo sve terete do 25 metara. Na prvom mestu su nam kvalitet i stručnost na radu."
+        },
+        "machine3":
+        {
+          "about":"D.O.O. Mont Ing plus se bavi i sa prevozom tereta. U ponudi imamo stabilan kiper kamion od 3.5t koja se lako utovaruje. Pogodan je za transport građevinskih i rasutih materijala(pesak,šljunak,zemlja)ili odvoz šuta. Pozovite nas a mi Vam garantujemo da ćemo prevoz izvršiti u dogovoreno vreme."
+        }
+      },
+      "services":
+      {
+        "title": "Usluge",
+        "cta": "Zatražite ponudu",
+        "terep":
+        {
+          "title": "Uređivanje terena",
+          "oszlop": "nabijanje kolaca",
+          "bontas": "rušenje starih kuća",
+          "jarda": "lomljenje betonskih trotoara",
+          "faultetes": "sađenje drveća",
+          "savalap": "kopanje/priprema terena"
+        },
+        "szallitas":
+        {
+          "title": "Transport",
+          "anyag": "transport građevinskih materijala",
+          "tormelek": "dopremanje otpada",
+          "egyeb": "ostali građevinski radovi"
+        },
+        "teher":
+        {
+          "title": "Rukovanje teretom",
+          "ipari": "podizanje idustrijske opreme",
+          "kipakolas": "istovar, utovar",
+          "athelyezes": "prenos tereta"
+        }
+      },
+      "contact":
+      {
+        "title": "Kontakti",
+        "title2": "Kontaktirajte nas sa poverenjem!",
+        "about": "Javite se putem jednog od dole navedenih kontakt podataka. Vaš pouzdan partner građevinskih poslova Mont Ing Plus D.O.O.",
+        "address": "Braće Levi 14, Senta"
+      },
+      "gallery":{
+        "title": "Galerija"
+
+      },
+      "footer":
+      {
+        "links": "Linkovi",
+        "location": "MAŠINSKI PARK"
+      },
+      "swiper":
+      {
+        "info": "DETALJNIJE",
+        "slide1":
+        {
+          "title" : "ODVOZ ŠUTA",
+          "about" : "Obezbeđujemo brz odvoz šuta."
+        },
+        "slide2":
+        {
+          "title" : "RUŠENJE STARIH KUĆA",
+          "about" : "Ako želite da se rešite stare/nekorišćene zgrade, možemo vam pomoći."
+        },
+        "slide3":
+        {
+          "title" : "KOPANJE / PRIPREMA TERENA",
+          "about" : "Uz pomoć naših mašina moguće je brzo iskopanje temelja bilo koje veličine."
+        },
+        "slide4":
+        {
+          "title" : "MANIPULACIJA TERETOM",
+          "about" : "Tačno i bezbedno pomeranje tereta/industrijskih mašina."
+        }
+      }
+    }
+  }
+  

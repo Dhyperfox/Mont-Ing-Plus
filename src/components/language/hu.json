@@ -1,0 +1,122 @@
+{
+    "translation": {
+      "menu":
+      {
+        "home": "Kezdőlap",
+        "about": "Rólunk",
+        "machines": "Gépeink",
+        "services": "Szolgáltatásaink",
+        "contact": "Elérhetőségek",
+        "gallery": "Galéria"
+
+      },
+      "about": 
+      {
+        "about-us": "Rólunk",
+        "about-text": "A zentai MONT ING PLUS KFT 2010 szeptember 3-án alapult. A társaság székhelye : Lőwi testvérek utca 14. Üzletünk illetve gépparkunk a Tornyosi út 78 –as szám alatt található. Jelenleg rendelkezésünkre áll egy 4 kerék kormányzású JCB 4CX kotró rakodó modell. A világ legkeresettebb kotró-rakodója mely megkönnyíti az ásást, rakodást és a kiásott anyag kezelését. Ezen tevékenységeken belül a következő munkálatok elvégzését is vállaljuk. A kiásott földet, hulladékot illetve munkálatokhoz szükséges anyagot MERCEDES ATEGO márkájú billenőplatós kisteherautóval szállítjuk. Rendelkezünk 30t-ás autódaruval is, amelyet szakképzett, több évi tapasztalattal rendelkező gépkezelővel adunk bérbe. Mivel a MONT ING PLUS kft több mint 10 éve létezik, hagyománya és minősége a piacon keresett. Munkatársaink kiváló végzettséggel rendelkeznek és a megbeszélt időszakokban minden munkát haladéktalanul elvégeznek illetve minden szerződést betartanak."
+      },
+      "machines":
+      {
+        "title": "Gépeink",
+        "about1": "Népszerű és sokoldalú kotró-rakodó gép.",
+        "about2": "Ideális nagy teher mozgatására.",
+        "about3": "3.5t teherbírású billenőpalettás teherautó.",
+        "machine1":
+        {
+          "about": "A JCB 4CX egy népszerű és sokoldalú kotró-rakodó gép, amelyet a JCB, egy brit építőipari gépgyártó cég fejlesztett ki. A JCB 4CX kombinálja a kotró- és rakodógépek funkcionalitását, így számos feladatot el tud végezni az építőiparban, földmunkákon és más területeken. Itt van egy általános leírás a JCB 4CX kotró-rakodóról:. Motor: A JCB 4CX rendelkezik egy megfelelő dízelmotorral, amely általában 81-109 lóerő közötti teljesítményt nyújt. A motor hatékony és megbízható, amely lehetővé teszi a gép hosszabb működését. A JCB 4CX EKO rakodógép több tartozékkal rendelkezik.",
+          "kanal": "Első kanál",
+          "kapacitet": "4.378kg Maximális rakodó kapacitás",
+          "kapacitet2": "1,3 m3 Rakodókanál kapacitás",
+          "hatso-kanal": "Hátsó kanál",
+          "melyseg": "5.53 kotrási mélység",
+          "furo": "Talajfúró",
+          "furo-text": "A JCB 4CX ECO talajfúró lyukak talajba fúrására szolgáló eszköz. Lehetővé teszi a pillérek, kerítések, alapok vagy egyéb, lyukakat igénylő szerkezetek felszerelésének gyors és hatékony elvégzését. A talajfúró a JCB 4CX ECO hátsó kotrójára van felszerelve(600mm 450mm 300mm 200mm).",
+          "hidraulik": "Hidraulikus kalapács",
+          "hidraulik-text": "A JCB 4CX ECO kiegészítő felszerelésként hidraulikus kalapáccsal is felszerelhető. A hidraulikus törő egy olyan eszköz, amelyet kemény anyagok, például beton, kő vagy aszfalt törésére használnak. Csatlakozik a gép hidraulikus rendszeréhez, és hidraulikus nyomást használ az anyagot feltörő ütések generálására.",
+          "fog": "Feltépő fog",
+          "fog-text": "Ez a tartozék lehetővé teszi a kezelőnek, hogy az előzőleg feltört anyagot (betont,kátrányos makadámutat,fagyott vagy tömörített földfelületeket) felszaggassa.",
+          "dongolo": "Hidraulikus döngölő",
+          "dongolo-text": "JCB 4CX ECO felszerelt hidraulikus döngölővel ami olyan tartozék, amely építőipari gépeken használható a talajtömörítés hatékonyságának javítására.Általában egy vibrációs fejből áll, amely a JCB 4CX ECO gép hátuljához rögzíthető. Amikor a vibrátor be van kapcsolva, a vibrációs fej rezgéseket generál, amelyek átadódnak a talajnak, lehetővé téve a talaj jobb tömörítését.",
+          "csatlakozo": "Gyorscsatlakozó",
+          "csatlakozo-text": "A JCB 4CX ECO opcionális extraként gyorscsatlakozóval is felszerelhető. A gyorscsatlakozó egy olyan mechanizmus, amely lehetővé teszi a szerszámok vagy tartozékok gyors és biztonságos rögzítését és leválasztását a JCB 4CX gépről."        
+        },
+        "machine2":
+        {
+          "about":"Mont Ing Plus D.o.o autóemelő bérbeadásával is foglalkozik. Legjobb megoldás a tehermozgatásra ipari berendezések emelésére, kipakolására, bepakolására, áthelyezésére, rakomány be és kipakolására. Rendelkezésünkre áll egy autóemelő ami 25 méter magasról képes leemelni illetve felemelni."
+        },
+        "machine3":
+        {
+          "about":"A Mont Ing Plus kft teherszállítással is foglalkozik. könnyen megrakható, stabil, 3.5t teherbírású billenőpalettás teherautóval rendelkezünk. Alkalmas az építőanyag, ömleszthető anyag(homok, kavics, föld) illetve törmelék szállítására. Hívjon bennünket bizalommal, mi pedig garantáljuk, hogy a megbeszélt időben elvégezzük a szállítást."
+        }
+      },
+      "services":
+      {
+        "title": "Szolgáltatásaink",
+        "cta": "Kérj ajánlatot",
+        "terep":
+        {
+          "title": "Tereprendezés",
+          "oszlop": "oszlopok leverése",
+          "bontas": "régi házak lebontása",
+          "jarda": "betonjárdák feltörése",
+          "faultetes": "faültetés",
+          "savalap": "gépi sávalap ásás"
+        },
+        "szallitas":
+        {
+          "title": "Szállítás",
+          "anyag": "raklapos anyagmozgatás",
+          "tormelek": "törmelék elszállítás",
+          "egyeb": "egyéb építőipari munkák"
+        },
+        "teher":
+        {
+          "title": "Tehermozgatás",
+          "ipari": "ipari berendezések emelése",
+          "kipakolas": "kipakolás, bepakolás",
+          "athelyezes": "áthelyezés",
+          "rakomany": "rakomány be- és kipakolás"
+        }
+      },
+      "contact":
+      {
+        "title": "Elérhetőségek",
+        "title2": "Keressen minket bizalommal!",
+        "about": "Várjuk jelentkezését a lent megadott elérhetőségek egyikén. Az ön megbízható építőipari vállalkozója Mont Ing Plus Kft.",
+        "address": "Lőwi testvérek utca 14, Zenta"
+      },
+      "gallery":{
+        "title": "Galéria"
+      },
+      "footer":
+      {
+        "links": "Linkek",
+        "location": "TELEPHELY"
+      },
+      "swiper":
+      {
+        "info": "TOVÁBBI INFÓ",
+        "slide1":
+        {
+          "title" : "TÖRMELÉK ELSZÁLLÍTÁS",
+          "about" : "Gyors és gondmentes törmelék elszállítást biztosítunk."
+        },
+        "slide2":
+        {
+          "title" : "ÉPÜLETEK LEBONTÁSA",
+          "about" : "Ha megakar szabadulni egy régi/nemhasznált épülettől, mi segítünk."
+        },
+        "slide3":
+        {
+          "title" : "GÉPI SÁVALAP ÁSÁS",
+          "about" : "Gépeink segítségével gyorsan kivitelezhető bármekkora méretű sávalap kiásása."
+        },
+        "slide4":
+        {
+          "title" : "TEHERMOZGATÁS",
+          "about" : "Pontos, biztonságos tehermozgatás/ipari berendezések áthelyezése."
+        }
+      }
+    }
+  }
+  
